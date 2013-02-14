@@ -1,0 +1,11 @@
+*~
+.#*
+*#
+
+*.dat
+*.out
+
+.history
+
+target/
+project/
